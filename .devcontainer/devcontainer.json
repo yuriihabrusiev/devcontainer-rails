@@ -1,6 +1,6 @@
 {
   "name": "Docker in Docker",
-  "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20-bookworm",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   }
